@@ -1,0 +1,25 @@
+{
+  "name": "opensource_9m_iti_lab2",
+  "version": "1.0.0",
+  "description": "I made changes on master branch this commit will be lost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notahmedwael/opensource_9m_iti_lab2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/notahmedwael/opensource_9m_iti_lab2/issues"
+  },
+  "homepage": "https://github.com/notahmedwael/opensource_9m_iti_lab2#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
